@@ -1,0 +1,24 @@
+name: ecocarbon_kernel313
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel=6.29.5
+  - python=3.13
+  - dask=2025.2.0
+  - dask-jobqueue=0.9.0
+  - dask-ml=2025.1.0
+  - distributed=2025.2.0
+  - geopandas=1.0.1
+  - matplotlib=3.10.0
+  - netcdf4=1.7.2
+  - numpy=2.1.3
+  - openpyxl=3.1.5
+  - pandas=2.2.3
+  - pyarrow=19.0.1
+  - rasterio=1.4.3
+  - rioxarray=0.18.2
+  - scikit-learn=1.6.1
+  - scipy=1.15.2
+  - shapely=2.0.7
+  - xarray=2025.1.2
+  - zarr=2.18.4

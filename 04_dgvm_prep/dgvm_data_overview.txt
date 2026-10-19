@@ -1,0 +1,94 @@
+# DGVMS: Models and files
+
+## cablepop
+../TRENDY/trendyv12-gcb2023/CABLEPOP/S2/CABLE-POP_S2_cVegpft.nc.gz
+../TRENDY/trendyv12-gcb2023/CABLEPOP/S2/CABLE-POP_S2_cSoilpft.nc.gz
+../TRENDY/trendyv12-gcb2023/CABLEPOP/S2/CABLE-POP_S2_landCoverFrac.nc.gz
+
+## cardamom
+no cvegpft, csoilpft files
+
+## classic
+../TRENDY/trendyv12-gcb2023/CLASSIC/S2/CLASSIC_S2_cVegpft.nc
+../TRENDY/trendyv12-gcb2023/CLASSIC/S2/CLASSIC_S2_cSoilpft.nc
+../TRENDY/trendyv12-gcb2023/CLASSIC/S2/CLASSIC_S2_landCoverFrac.nc
+
+## clm5.0
+# Each pft in seperate file with monthly values
+../TRENDY/trendyv12-gcb2023/CLM5.0/S2/CLM5.0_S2_cVegpft_PFT00.nc
+...
+../TRENDY/trendyv12-gcb2023/CLM5.0/S2/CLM5.0_S2_cVegpft_PFT78.nc
+../TRENDY/trendyv12-gcb2023/CLM5.0/S2/CLM5.0_S2_landCoverFrac_PFT00.nc
+...
+../TRENDY/trendyv12-gcb2023/CLM5.0/S2/CLM5.0_S2_landCoverFrac_PFT78.nc
+
+## dlem
+no cvegpft, csoilpft files
+
+## ed
+no pft landCoverFrac
+../TRENDY/trendyv12-gcb2023/ED/S2/EDv3_S2_cVegpft.nc
+../TRENDY/trendyv12-gcb2023/ED/S2/EDv3_landCoverFrac.nc
+
+## elm
+no cvegpft, csoilpft files
+
+## ibis
+../TRENDY/trendyv12-gcb2023/IBIS/S2/IBIS_S2_cVegpft.nc
+../TRENDY/trendyv12-gcb2023/IBIS/S2/IBIS_S2_cSoilpft.nc
+../TRENDY/trendyv12-gcb2023/IBIS/S2/IBIS_S2_landCoverFrac.nc
+
+## isam
+../TRENDY/trendyv12-gcb2023/ISAM/S2/ISAM_S2_cVegpft.nc
+
+## isbactrip
+no cvegpft, csoilpft files
+
+## jsbach
+../TRENDY/trendyv12-gcb2023/JSBACH/S2/JSBACH_S2_cVegpft.nc
+../TRENDY/trendyv12-gcb2023/JSBACH/S2/JSBACH_S2_cSoilpft.nc
+../TRENDY/trendyv12-gcb2023/JSBACH/S2/JSBACH_S2_landCoverFrac.nc
+
+## jules
+../TRENDY/trendyv12-gcb2023/JULES/S2/JULES_S2_cVegpft.nc
+../TRENDY/trendyv12-gcb2023/JULES/S2/JULES_S2_landCoverFrac.nc
+
+## lpj guess
+../TRENDY/trendyv12-gcb2023/LPJ-GUESS/S2/LPJ-GUESS_S2_cVegpft.nc
+../TRENDY/trendyv12-gcb2023/LPJ-GUESS/S2/LPJ-GUESS_S2_landCoverFrac.read_the_readme.nc
+
+## lpjml
+../TRENDY/trendyv12-gcb2023/LPJml/S2/LPJmL_S2_cVegpft.nc
+../TRENDY/trendyv12-gcb2023/LPJml/S2/LPJmL_S2_landCoverFrac.nc
+
+## lpjwsl
+no cvegpft, csoilpft files
+
+## lpjxqs
+# Takes more than 1h; Files become very big
+../TRENDY/trendyv12-gcb2023/lpxqs/S2/LPX-Bern_S2_cVegpft_lu.nc
+../TRENDY/trendyv12-gcb2023/lpxqs/S2/LPX-Bern_S2_cSoilpft_lu.nc
+../TRENDY/trendyv12-gcb2023/lpxqs/S2/LPX-Bern_S2_landCoverFrac.nc
+
+## ocn
+../TRENDY/trendyv12-gcb2023/OCN/S2/OCN_S2_cVegpft.nc
+../TRENDY/trendyv12-gcb2023/OCN/S2/OCN_S2_cSoilpft.nc
+../TRENDY/trendyv12-gcb2023/OCN/S2/OCN_S2_landCoverFrac.nc
+
+## orchidee
+../TRENDY/trendyv12-gcb2023/ORCHIDEE/S2/ORCHIDEE_S2_cVegpft.nc
+../TRENDY/trendyv12-gcb2023/ORCHIDEE/S2/ORCHIDEE_S2_cSoilpft.nc
+../TRENDY/trendyv12-gcb2023/ORCHIDEE/S2/ORCHIDEE_S2_landCoverFrac.nc
+
+#### sdgvm 
+../TRENDY/trendyv12-gcb2023/SDGVM/S2/SDGVM_S2_cVegpft.nc
+../TRENDY/trendyv12-gcb2023/SDGVM/S2/SDGVM_S2_landCoverFrac.nc
+
+## visit
+../TRENDY/trendyv12-gcb2023/VISIT/S2/VISIT_S2_cVegpft.nc.gz
+../TRENDY/trendyv12-gcb2023/VISIT/S2/VISIT_S2_landCoverFrac.nc.gz
+
+#### yibs
+../TRENDY/trendyv12-gcb2023/YIBS/S2/YIBs_S2_Annual_cVegpft.nc.tar.gz
+../TRENDY/trendyv12-gcb2023/YIBS/S2/YIBs_S2_Annual_cSoilpft.nc.tar.gz
+../TRENDY/trendyv12-gcb2023/YIBS/S2/YIBs_S2_Annual_landCoverFrac.nc.tar.gz
